@@ -16,7 +16,10 @@ Other Technologies Used
 -------------------------
 
 > Here I have used OOP concepts 
-     # using OOP concepts it make easier for passing data and keep them as a whole part when need.
+     # OOP make easier for passing data and keep them as a whole part when need.
+     # Security
+     # Reuse code through inheritance
+     # Effective in problem solving.
 > MVC architecture for design this project.     
      # It makes easier and very clear for understanding the project. 
      # Well organized pattern.
