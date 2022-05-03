@@ -23,6 +23,7 @@ public class OnlineShopping {
     public static void main(String[] args) {
         // TODO code application logic here
         //AdminForm n=new AdminForm();
+        //
         loginForm n=new loginForm();
         //MainFrame n=new MainFrame();
         n.setVisible(true);
