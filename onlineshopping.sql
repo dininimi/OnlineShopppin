@@ -66,7 +66,7 @@ CREATE TABLE IF NOT EXISTS `customer` (
 --
 
 INSERT INTO `customer` (`name`, `userName`, `email`, `tel`, `password`, `birthday`, `address`, `cId`) VALUES
-('Chathuri', 'chathu', 'chathu@gmail.com', 778955449, '1234', 'Jun 12, 1990', 'Colombo', 6),
+('User', 'user', 'user@gmail.com', 778955449, '1234', 'Jun 12, 1990', 'Colombo', 8),('Chathuri', 'chathu', 'chathu@gmail.com', 778955449, '1234', 'Jun 12, 1990', 'Colombo', 6),
 ('Kamal', 'Kamal', 'kamal@gmail.com', 778955447, '1234', 'Jun 12, 1990', 'Colombo', 5);
 
 -- --------------------------------------------------------
