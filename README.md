@@ -32,3 +32,5 @@ Other Technologies Used
 * Configure your database schema credentials in src/lk/nimi/onlineshopping/controller/dbConnection.
 * Create database name 'onlineshipping' -> please refer the attach sql file.
 * Run this project as part of java code through NetBeans IDE or command prompts.
+* Login : User Name -> user 
+*       : Pass -> 1234
